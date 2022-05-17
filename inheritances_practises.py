@@ -51,7 +51,7 @@ class Domestic_grounds(Hyderabad_cricket_stadium,Bangalore_cricket_stadium):
         print(f'ground capacity is {self.bseating_capacity}')
 
 #d = Domestic_grounds()
-#d.Ground1('chandu')
+
 
 '''----------------------------------------------------------------------------------'''
 # multi level inheritance
